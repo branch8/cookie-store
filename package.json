@@ -30,7 +30,7 @@
     "husky": "^8.0.3",
     "karma": "^5.2.3",
     "karma-chai": "^0.1.0",
-    "karma-firefox-launcher": "^2.1.0",
+    "karma-firefox-launcher": "^2.1.3",
     "karma-mocha": "^2.0.1",
     "mocha": "^10.1.0",
     "prettier": "^2.0.2",
@@ -50,6 +50,5 @@
     "prettier": "prettier --check 'src/**/*'",
     "banner": "banner-cli dist/index.js",
     "build": "tsc"
-  },
-  "dependencies": {}
+  }
 }
